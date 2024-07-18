@@ -1,11 +1,13 @@
-# SCP : SL 简体中文-原版重置（ZH_FLASH）
+# SCP : SL 简体中文-原版重置（ZH_FLASH）但是梗体中文
 
-![ZH_FLASH_LOGO](https://i0.hdslb.com/bfs/article/ccff23fda491a9650a30b50df6d4bbc7545576624.png@1256w_1256h_!web-article-pic.avif)
+# 这个版本仍在制作中，预计会在暑假期间不定期施工，将在八月初发布第一个版本
+
+![ZH_FLASH_LOGO](https://i0.hdslb.com/bfs/article/ccff23fda491a9650a30b50df6d4bbc7545576624.png)
 
 ## 翻译包介绍
 
-- 翻译包名称：简体中文-原版重置 (ZH-FLASH)
-- 翻译包作者：是闪闪闪闪闪（**[点击前往作者bilibili主页](https://space.bilibili.com/545576624)**）
+- 翻译包名称：简体中文-原版重置 (ZH-FLASH) 但是梗体中文
+- 翻译包作者：（原作者）是闪闪闪闪闪（**[点击前往作者bilibili主页](https://space.bilibili.com/545576624)**）
 - 使用须知如下：
   - 本翻译包是基于游戏《SCP Secret Laboratory》的官方简体中文翻译包进行修改的,其主要内容为重新排版与字体美化.
   - 本翻译包对如何人都**完全免费**,不存在付费这一说.
@@ -41,51 +43,51 @@
 
 - 常规门关闭时
 
-![常规门关闭时](https://i0.hdslb.com/bfs/article/f272d2389726799ebbe823c16e513121545576624.png@1256w_708h_!web-article-pic.avif)
+![常规门关闭时](https://i0.hdslb.com/bfs/article/f272d2389726799ebbe823c16e513121545576624.png)
 
 - 常规门移动时
 
-![常规门移动时](https://i0.hdslb.com/bfs/article/e425dfc74b428c023cbc929ffa8aca44545576624.png@1256w_708h_!web-article-pic.avif)
+![常规门移动时](https://i0.hdslb.com/bfs/article/e425dfc74b428c023cbc929ffa8aca44545576624.png)
 
 - 常规门开启时
 
-![常规门开启时](https://i0.hdslb.com/bfs/article/6cbf5f93e5e3f11b013354f037014643545576624.png@1256w_708h_!web-article-pic.avif)
+![常规门开启时](https://i0.hdslb.com/bfs/article/6cbf5f93e5e3f11b013354f037014643545576624.png)
 
 - 权限门关闭时
 
-![权限门关闭时](https://i0.hdslb.com/bfs/article/0d184bbf977de8e922bacbd9dcae046d545576624.png@1256w_708h_!web-article-pic.avif)
+![权限门关闭时](https://i0.hdslb.com/bfs/article/0d184bbf977de8e922bacbd9dcae046d545576624.png)
 
 - 权限门拒绝访问时
 
-![权限门拒绝访问时](https://i0.hdslb.com/bfs/article/b5d324557ce13cae4f67d0e4ffacedaa545576624.png@1256w_708h_!web-article-pic.avif)
+![权限门拒绝访问时](https://i0.hdslb.com/bfs/article/b5d324557ce13cae4f67d0e4ffacedaa545576624.png)
 
 - 权限门允许访问时
 
-![权限门允许访问时](https://i0.hdslb.com/bfs/article/feff5c703b35b405ecfff7f137df743c545576624.png@1256w_708h_!web-article-pic.avif)
+![权限门允许访问时](https://i0.hdslb.com/bfs/article/feff5c703b35b405ecfff7f137df743c545576624.png)
 
 - ALPHA核弹关闭时
 
-![ALPHA核弹关闭时](https://i0.hdslb.com/bfs/article/77afad8f76fb65726b50a8cded0bc8ad545576624.png@1256w_708h_!web-article-pic.avif)
+![ALPHA核弹关闭时](https://i0.hdslb.com/bfs/article/77afad8f76fb65726b50a8cded0bc8ad545576624.png)
 
 - ALPHA核弹开启时
 
-![ALPHA核弹开启时](https://i0.hdslb.com/bfs/article/6b49c7463f861ebb4b3cbc1113b6104f545576624.png@1256w_708h_!web-article-pic.avif)
+![ALPHA核弹开启时](https://i0.hdslb.com/bfs/article/6b49c7463f861ebb4b3cbc1113b6104f545576624.png)
 
 - ALPHA核弹重启时
 
-![ALPHA核弹重启时](https://i0.hdslb.com/bfs/article/0b15141356ca4302a8b2896018c2d400545576624.png@1256w_708h_!web-article-pic.avif)
+![ALPHA核弹重启时](https://i0.hdslb.com/bfs/article/0b15141356ca4302a8b2896018c2d400545576624.png)
 
 - 枪械配置工作站待机时
 
-![枪械配置工作站待机时](https://i0.hdslb.com/bfs/article/d577b81410e7111a3333d8a22988a49a545576624.png@1256w_708h_!web-article-pic.avif)
+![枪械配置工作站待机时](https://i0.hdslb.com/bfs/article/d577b81410e7111a3333d8a22988a49a545576624.png)
 
 - 枪械配置工作站可用时
 
-![枪械配置工作站可用时](https://i0.hdslb.com/bfs/article/08cffa250728e0b4312529a9be0356d1545576624.png@1256w_708h_!web-article-pic.avif)
+![枪械配置工作站可用时](https://i0.hdslb.com/bfs/article/08cffa250728e0b4312529a9be0356d1545576624.png)
 
 - 枪械配置工作站界面
 
-![枪械配置工作站界面](https://i0.hdslb.com/bfs/article/784fb2e9f890e18df9c0ed3e526b78c1545576624.png@1256w_708h_!web-article-pic.avif)
+![枪械配置工作站界面](https://i0.hdslb.com/bfs/article/784fb2e9f890e18df9c0ed3e526b78c1545576624.png)
 > 只展示这么多,更详细的内容请前往游戏内体验.
 
 
