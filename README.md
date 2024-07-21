@@ -1,12 +1,12 @@
-# SCP : SL 简体中文-原版重置（ZH_FLASH）但是梗体中文
+# SCP : SL 梗体中文-原版重置 (ZH-FLASH-MEME)
 
-# 这个版本仍在制作中，预计会在暑假期间不定期施工，将在八月初发布第一个版本
+# 正在施工中，在8月初发布第一版
 
 ![ZH_FLASH_LOGO](https://i0.hdslb.com/bfs/article/ccff23fda491a9650a30b50df6d4bbc7545576624.png)
 
 ## 翻译包介绍
 
-- 翻译包名称：简体中文-原版重置 (ZH-FLASH) 但是梗体中文
+- 翻译包名称：梗体中文-原版重置 (ZH-FLASH-MEME)
 - 翻译包作者：（原作者）是闪闪闪闪闪（**[点击前往作者bilibili主页](https://space.bilibili.com/545576624)**）
 - 使用须知如下：
   - 本翻译包是基于游戏《SCP Secret Laboratory》的官方简体中文翻译包进行修改的,其主要内容为重新排版与字体美化.
