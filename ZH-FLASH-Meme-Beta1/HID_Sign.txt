@@ -1,0 +1,15 @@
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
+<color=#70C3FF>⚡电磁炮⚡</color>
+<color=#70C3FF>⚡电磁炮⚡</color>
+<color=#70C3FF>储　　存　　室</color>
+<color=#70C3FF>储　　存　　室</color>
+<color=#70C3FF><b>｜</b>━━⚡━━<b>｜</b></color>
+<color=#70C3FF><b>｜</b>━━⚡━━<b>｜</b></color>
+<color=#70C3FF>还　　　不</color>
+<color=#70C3FF>还　　　不</color>
+<color=#70C3FF>快　　一　　点</color>
+<color=#70C3FF>快　　一　　点</color>
+<color=#70C3FF>扔　　　雷</color>
+<color=#70C3FF>扔　　　雷</color>
+<color=#70C3FF><b>｜</b>━━⚡━━<b>｜</b></color>
+<color=#70C3FF><b>｜</b>━━⚡━━<b>｜</b></color>

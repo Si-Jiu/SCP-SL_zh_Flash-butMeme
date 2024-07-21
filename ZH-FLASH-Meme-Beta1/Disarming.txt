@@ -1,0 +1,3 @@
+<color=#00FFFFFF>你怎么在和 <color=#FF96DEFF><b>[player]</b></color> 玩捆绑play</color>
+<color=#FF00B0FF><b>一名服务器管理员</b></color>
+<color=#00FFFFFF>不老实点就等着被当成星怒吧</color>
