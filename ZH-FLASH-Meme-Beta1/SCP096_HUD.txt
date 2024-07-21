@@ -4,5 +4,5 @@
 <color=#DB72FF>冲刺冲刺冲冲冲</color>:不可能让他们逃跑——他们该死。你俯身向前冲刺，冲刺，冲冲一小段距离，并破坏沿途的事物。
 <color=red>仅狂怒状态可用</color>
 <color=green>仅温顺状态可用</color>
-长按[key]键进入无能狂怒
-长按[key]键结束无能狂怒
+长按[key]键进入<color=red>无能狂怒</color>
+长按[key]键结束<color=green>无能狂怒</color>
