@@ -1,0 +1,22 @@
+{
+	"Name": "<color=#00D9FFFF><b>梗体中文-原版重置(ZH-FLASH-MEME)<sub><size=120%>1.0-beta</size></sub></b></color>",
+	"Authors": [
+		"bilibili@是闪闪闪闪闪",
+		"bilibili@肆鸠SiJiu49"
+	],
+	"InterfaceLocales": [
+		"zh-CN",
+		"zh-hans",
+		"zh"
+	],
+	"SystemLocales": [
+		"zh-CN",
+		"zh-SG",
+		"zh-Hans",
+		"zh"
+	],
+	"ForcedFontOrder": [
+		"Source Han Sans",
+		"NotoSansCJKsc-RegularDynamic"
+	]
+}
